@@ -5,6 +5,8 @@
 [![GitHub followers](https://img.shields.io/github/followers/EUMHC?label=Follow&style=social)](https://github.com/EUMHC)
 [![GitHub stars](https://img.shields.io/github/stars/EUMHC?label=Stars&style=social)](https://github.com/EUMHC)
 
+</div>
+
 ## About Us
 
 This is the official GitHub organisation for Edinburgh University Men's Hockey Club. Here, you can find a selection of software projects written by current and former club members, directly for use at the club.
@@ -22,4 +24,3 @@ Check out all of our repositories [here](https://github.com/EUMHC?tab=repositori
 
 [![GitHub Org's stars](https://img.shields.io/github/stars/EUMHC?style=social)](https://github.com/EUMHC)
 [![GitHub Org's followers](https://img.shields.io/github/followers/EUMHC?style=social)](https://github.com/EUMHC)
-</div>
