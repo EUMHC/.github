@@ -15,6 +15,7 @@ This is the official GitHub organisation for Edinburgh University Men's Hockey C
 
 Here are some of our key projects:
 
+- **[BUCS Matches Website Display](https://github.com/EUMHC/website-bucs-matches):** Display BUCS fixtures and results on the club website. Written in vanilla JS.
 - **[BuzzBot2](https://github.com/EUMHC/bb2):** A blazingly fast (sorta), disgustingly rigorous umpiring assignment system. Built in Python.
 - **[PINTS.py](https://github.com/EUMHC/pints.py):** A RESTful API backend for the Performance Indicator Normalised Trend System. Built in Python.
 
